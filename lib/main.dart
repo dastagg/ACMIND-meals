@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'DeliMeals',
       theme: ThemeData(
         primarySwatch: Colors.pink,
+        // TODO: Update this to get rid of warning.
         accentColor: Colors.amber,
         canvasColor: const Color.fromRGBO(255, 254, 229, 1),
         fontFamily: 'Raleway',

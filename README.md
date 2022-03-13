@@ -1,6 +1,6 @@
 # meals
 
-An Acedemind tutorial.
+An Academind tutorial.
 
 ## Description
 

@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:meals/category_item.dart';
 
-import 'dummy_data.dart';
+import '../data/dummy_data.dart';
+import '../widgets/category_item.dart';
 
 class CategoriesScreen extends StatelessWidget {
   static const routeName = '/categories-screen';
+
   const CategoriesScreen({Key? key}) : super(key: key);
 
   @override
